@@ -1,0 +1,6 @@
+Rencana Belajar
+
+- GIT & GITHUB
+- HTML
+- CSS
+- JAVASCRIPT
