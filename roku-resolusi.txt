@@ -1,4 +1,7 @@
 ROKU resolusi
-- Konsisten belajar javascript
-- Belajar Web dan app mobile
 - Belajar HTML dan CSS
+- Belajar GIT & GITHUB
+- Belajar Manupulasi DOM
+- Belajar javaScript
+- Belajar ReactJS
+- Belajar NodeJS
